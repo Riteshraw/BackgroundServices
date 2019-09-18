@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackGround Services</string>
+    <string name="title_activity_work_manager">WorkManagerActivity</string>
+    <string name="btn_wm_start">Start WM</string>
+</resources>
